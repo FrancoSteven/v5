@@ -1,5 +1,6 @@
 # **CRUD Usuarios – Versión 5 (con JSON Server)**
 
+lo realizado por el grupo 7 en el codigo v4 esta marcado entre bloques de comentarios delimitando lo agregado y ademas no se borro sino que solo se comento lo original de v4.
 ## **Descripción**
 La **versión 4** del CRUD de usuarios incorpora persistencia real usando un archivo **`data/users.json`** gestionado a través de **`json-server`**.  
 Esto permite que las operaciones **Crear, Editar y Eliminar** modifiquen directamente el archivo JSON, simulando un backend real.
